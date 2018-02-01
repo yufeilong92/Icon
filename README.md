@@ -4,9 +4,9 @@
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/3.png)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/4.png)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/5.png)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.png)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/7.png)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/8.png)
+![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.gif)
+![image](https://github.com/yufeilong92/Icon/blob/master/icon/7.gif)
+![image](https://github.com/yufeilong92/Icon/blob/master/icon/8.gif)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/9.png)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/admin.png)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/back.png)
@@ -28,13 +28,8 @@
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/cancle.png)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/cancle.png)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/cancle.png)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.gif)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/play_video_right.gif)
 ![image](https://github.com/yufeilong92/Icon/blob/master/icon/play_vidoe_left.gif)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.gif)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.gif)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.gif)
-![image](https://github.com/yufeilong92/Icon/blob/master/icon/6.gif)
 
 
 
